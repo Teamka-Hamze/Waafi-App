@@ -1,0 +1,29 @@
+.allImages {
+  display: flex;
+  gap: 5px;
+}
+
+.image1 {
+  height: 300px;
+  border-radius: 20px;
+}
+
+.two {
+  padding-top: 20px;
+}
+
+.one {
+  padding-top: 158px;
+}
+
+.Oneim {
+  padding-top: 85px;
+}
+
+.OneImag {
+  padding-top: 37px;
+}
+
+.OneImage {
+  padding-top: 37px;
+}

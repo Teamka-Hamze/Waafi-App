@@ -1,0 +1,49 @@
+.textSection {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.images {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  overflow: hidden;
+}
+
+.images1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  overflow: hidden;
+}
+.images2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.center {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.div {
+  border: 1px solid silver;
+  border-radius: 20px;
+  height: 360px;
+  max-height: 350px;
+  width: 350px;
+  padding: 10px 20px;
+}

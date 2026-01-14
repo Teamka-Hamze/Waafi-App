@@ -1,0 +1,13 @@
+.hOne {
+  font-size: 55px;
+}
+p {
+  padding-bottom: 6px;
+}
+button {
+  border: 1px solid black;
+  padding: 10px 15px;
+  border-radius: 20px;
+  background-color: transparent;
+  cursor: pointer;
+}

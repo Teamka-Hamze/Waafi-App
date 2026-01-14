@@ -1,0 +1,16 @@
+.mian {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 80px;
+  align-items: center;
+}
+.main {
+  display: flex;
+  height: 700px;
+  background: linear-gradient(to right, #f4fcf6, #f5f7d7);
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 20px;
+  width: 90%;
+  margin: auto;
+}

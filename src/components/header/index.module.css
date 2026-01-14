@@ -1,0 +1,31 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.menus {
+  display: flex;
+  gap: 0.6rem;
+}
+.menus a {
+  text-decoration: none;
+  color: black;
+}
+.menus a:hover {
+  color: #43a34a;
+}
+.btn button {
+  padding: 10px 15px;
+  border-radius: 18px;
+  color: black;
+  background-color: transparent;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.btn button:hover {
+  background-color: #f1f5f9;
+}
+.cursor {
+  cursor: pointer;
+}
