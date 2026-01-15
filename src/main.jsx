@@ -13,6 +13,8 @@ import Wallpaper from "./components/wallpaper/wallpaper";
 import Down from "./components/download/down";
 import Team from "./components/team/team";
 import About from "./components/about/about";
+import Cards from "./components/cards/Cards";
+import Footer from "./components/footer/Footer";
 // import FAQ from "./components/FAQ/faq";
 
 createRoot(document.getElementById("root")).render(
@@ -29,5 +31,7 @@ createRoot(document.getElementById("root")).render(
     <Down />
     <Team />
     <About />
+    <Cards />
+    <Footer />
   </StrictMode>
 );
