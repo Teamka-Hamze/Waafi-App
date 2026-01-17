@@ -5,7 +5,7 @@ function ImagesThree() {
     <div>
       <div>
         <div>
-          <img src={img} alt="" />
+          {/* <img src={img} alt="" />
           <h2>Our Mission</h2>
         </div>
         <div>
@@ -14,7 +14,7 @@ function ImagesThree() {
             reliable cashless mobile <br /> payment platform with outstanding
             user <br /> experience that acts like a companion that <br />
             simplifies your life.
-          </p>
+          </p> */}
         </div>
       </div>
     </div>
