@@ -32,6 +32,6 @@ createRoot(document.getElementById("root")).render(
     <Team />
     <About />
     <Cards />
-    <Footer />
+    <Footer/>
   </StrictMode>
 );
